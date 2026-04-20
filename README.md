@@ -237,7 +237,7 @@ TODO: Add appropriate license
 
 ## Maintainer
 
-Ali Hmaza (ali-hmaza@todo.todo)
+M-Faisal (mfaisalsaeed18@gmail.com)
 
 ## Contributing
 
