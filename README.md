@@ -6,7 +6,7 @@ This project aims to provide a robust platform for developing robotics applicati
 ## Technical Stack
 - **Language:** Python, C++
 - **Frameworks:** ROS2 (Robot Operating System 2)
-- **Libraries:** rclcpp, rclpy, sensor_msgs, std_msgs
+- **Libraries:** rclcpp, rclpy, sensor_msgs, std_msgs, SqLite3
 
 ## Features
 - Modular architecture for easy component integration
