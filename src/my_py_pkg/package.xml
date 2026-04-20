@@ -15,6 +15,7 @@
   <depend>scipy</depend>
   <depend>speech_recognition</depend>
   <depend>sentence_transformers</depend>
+  <depend>sqlite3</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
