@@ -228,6 +228,8 @@ docker run -it ros2-assistant
 - [ ] Implement persistent storage for schedules and notes
 - [ ] Add advanced NLP for context-aware responses
 - [ ] Support for multiple users with authentication
+- [ ] Autonomous bot listening events and storing
+- [ ] Hardware integration
 
 ## License
 
